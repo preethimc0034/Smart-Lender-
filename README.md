@@ -222,11 +222,11 @@ Through this project, the following skills were developed:
 
 ## 👨‍💻 Team Members
 
-* Ramcharan Uppada (Team Lead)
-* Mrudula pittu
-* Sivalanka Naresh
-* Darwin Kota
-* Thyada Tirumula Rao
+* Shaik Thanveer Basha (team lead)
+* Matam Ravi Chandra
+* M C Preethi 
+* Dasari Archana 
+* Aparna
 
 ---
 
